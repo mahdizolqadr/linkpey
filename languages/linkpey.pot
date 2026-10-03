@@ -1,0 +1,32 @@
+# Copyright (C) 2026 Mahdi Zolqadr
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: LinkPey 1.0.7\n"
+"Report-Msgid-Bugs-To: mahdi.zolqadr@gmail.com\n"
+"POT-Creation-Date: 2026-09-15 18:00+0000\n"
+"PO-Revision-Date: 2026-09-15 18:00+0000\n"
+"Last-Translator: Mahdi Zolqadr <mahdi.zolqadr@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Manual\n"
+"X-Domain: linkpey\n"
+
+#: linkpey.php
+msgid "LinkPey"
+msgstr ""
+
+#: includes/class-linkpey-settings.php
+msgid "تنظیمات لینک‌پی"
+msgstr ""
+
+#: includes/class-linkpey-settings.php
+msgid "API Token تنظیم نشده است."
+msgstr ""
+
+#: includes/class-linkpey-metabox.php
+msgid "انتقال به شبکه‌های اجتماعی"
+msgstr ""

@@ -1,0 +1,4 @@
+svn_password
+*.zip
+svn/linkpey-svn/
+__pycache__/
