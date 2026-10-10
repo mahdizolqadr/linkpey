@@ -1,4 +1,26 @@
+# Credentials (never commit)
 svn_password
+**/svn_password
+
+# WordPress.org SVN working copy (publish via svn, not git)
+svn/
+
+# Release / install artifacts
 *.zip
-svn/linkpey-svn/
+*.tar
+*.tar.gz
+*.tgz
+
+# Python
 __pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
